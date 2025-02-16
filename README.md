@@ -38,11 +38,11 @@ O código está dividido em seções bem organizadas:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/adimael/u4-c7-controle-servomotor-pwm.git
+   git clone https://github.com/adimael/u4c8-adc.git
    ````
 2. **Entre na pasta do projeto**:
    ````
-   cd u4-c7-controle-servomotor-pwm
+   cd u4c8-adc
    
    ````
 
